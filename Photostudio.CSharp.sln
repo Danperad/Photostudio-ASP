@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photostudio.CSharp.ASP", "Photostudio.CSharp.ASP\Photostudio.CSharp.ASP.csproj", "{BE5C9806-1789-4207-96AF-18F10C8236A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photostudio.CSharp.Database", "Photostudio.CSharp.Database\Photostudio.CSharp.Database.csproj", "{059A35FC-D3DC-4296-9C2A-1C7EBE027B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5C9806-1789-4207-96AF-18F10C8236A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5C9806-1789-4207-96AF-18F10C8236A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5C9806-1789-4207-96AF-18F10C8236A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5C9806-1789-4207-96AF-18F10C8236A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059A35FC-D3DC-4296-9C2A-1C7EBE027B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059A35FC-D3DC-4296-9C2A-1C7EBE027B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059A35FC-D3DC-4296-9C2A-1C7EBE027B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059A35FC-D3DC-4296-9C2A-1C7EBE027B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
